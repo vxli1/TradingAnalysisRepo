@@ -43,4 +43,3 @@ input_path = "/Users/vanessali/Desktop/l/CodeExercise/Tests/input_1.csv"
 output_path = "/Users/vanessali/Desktop/l/CodeExercise/Tests/output.csv"
 process_trades(input_path, output_path)
 
-cd /Users/vanessali/Desktop/l/CodeExercise/Tests
